@@ -27,7 +27,7 @@ const GalliMaps = ({ mapOptions }) => {
 
     return (
         <div style={{ display: 'flex', flexDirection: 'column', height: '100vh' }}>
-            <div ref={mapContainerRef} style={{ height: '85vh' }}></div>
+            <div ref={mapContainerRef} id="map" style={{ height: '85vh' }}></div>
         </div>
     );
 };

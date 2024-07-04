@@ -23,3 +23,11 @@ dist-ssr
 *.sln
 *.sw?
 .env
+node_modules/
+src/
+eslintrc.cjs
+index.html
+package.json
+README.md 
+vite.config.js 
+pnpm-lock.yaml

@@ -10,3 +10,14 @@ Feedbacks/PRs are happily welcomed.
 Would be fun to have a Galli Maps React Library (might be library agnostic as well) for easier implementation and adoption
 
 dumb idea i gave up
+
+
+i could not load the galli map script dynamically so initially i set it in index.html directly.
+
+now i cannot initialize galli maps plugin object because it gives not defined error.
+
+there might be other work around. or galli maps has to give me their backend access to make it happen.
+
+either way good try, learned about react project architecture, custom hooks, useContext and all.
+
+setting this repo public for someone to iterate and improve.

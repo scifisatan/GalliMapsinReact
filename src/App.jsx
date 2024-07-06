@@ -1,3 +1,4 @@
+import SearchBar from './components/SearchBar';
 import GalliMaps from './GalliMaps/GalliMaps';
 function App() {
 
@@ -9,17 +10,7 @@ function App() {
   }
   return (
     <div>
-      <h1 style={{
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        padding: '0.5em',
-        fontFamily: 'Arial, sans-serif',
-        fontSize: '1.5em',
-        margin: '0'
-      }}>
-        Galli Maps in React
-      </h1>
+      <SearchBar />
       <GalliMaps mapOptions={mapOptions} />
     </div>
   )

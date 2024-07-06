@@ -12,5 +12,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <GalliMapsProvider apiToken={apiToken}>
       <App />
     </GalliMapsProvider>
-  </React.StrictMode>,
+  </React.StrictMode>
 )

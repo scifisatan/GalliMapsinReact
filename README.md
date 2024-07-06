@@ -8,3 +8,5 @@ might implement all of the apis in hooks for easier use later
 
 Feedbacks/PRs are happily welcomed.
 Would be fun to have a Galli Maps React Library (might be library agnostic as well) for easier implementation and adoption
+
+dumb idea i gave up
